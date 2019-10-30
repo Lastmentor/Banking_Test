@@ -1,0 +1,14 @@
+C:\Users\Amadeus\source\repos\Banking\Banking\bin\Debug\netcoreapp2.1\Banking.deps.json
+C:\Users\Amadeus\source\repos\Banking\Banking\bin\Debug\netcoreapp2.1\Banking.runtimeconfig.json
+C:\Users\Amadeus\source\repos\Banking\Banking\bin\Debug\netcoreapp2.1\Banking.runtimeconfig.dev.json
+C:\Users\Amadeus\source\repos\Banking\Banking\bin\Debug\netcoreapp2.1\Banking.dll
+C:\Users\Amadeus\source\repos\Banking\Banking\bin\Debug\netcoreapp2.1\Banking.pdb
+C:\Users\Amadeus\source\repos\Banking\Banking\obj\Debug\netcoreapp2.1\Banking.csproj.CoreCompileInputs.cache
+C:\Users\Amadeus\source\repos\Banking\Banking\obj\Debug\netcoreapp2.1\Banking.RazorAssemblyInfo.cache
+C:\Users\Amadeus\source\repos\Banking\Banking\obj\Debug\netcoreapp2.1\Banking.RazorAssemblyInfo.cs
+C:\Users\Amadeus\source\repos\Banking\Banking\obj\Debug\netcoreapp2.1\Banking.AssemblyInfoInputs.cache
+C:\Users\Amadeus\source\repos\Banking\Banking\obj\Debug\netcoreapp2.1\Banking.AssemblyInfo.cs
+C:\Users\Amadeus\source\repos\Banking\Banking\obj\Debug\netcoreapp2.1\Banking.RazorTargetAssemblyInfo.cache
+C:\Users\Amadeus\source\repos\Banking\Banking\obj\Debug\netcoreapp2.1\Banking.dll
+C:\Users\Amadeus\source\repos\Banking\Banking\obj\Debug\netcoreapp2.1\Banking.pdb
+C:\Users\Amadeus\source\repos\Banking\Banking\obj\Debug\netcoreapp2.1\Banking.csprojAssemblyReference.cache
